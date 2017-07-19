@@ -1,2 +1,0 @@
-# HealthGuide.Files
-Misc Files
